@@ -104,6 +104,12 @@ Nodes feature a clear **top-right delete icon**.
 
 ---
 
+## 🎥 Demo Video
+
+Click below to watch the full walkthrough:
+
+👉 [**Watch Demo Video**](https://drive.google.com/file/d/1CnDbupb8NYBDZcYuEj0U6SsoTTmj_FlU/view?usp=sharing)
+
 # 🏗 Architecture Overview
 
 | Component       | Technology         | Role                              |
